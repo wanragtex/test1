@@ -1,7 +1,7 @@
 #include <iostream>
 
 void func1() {
-    std::cout << "Hello world++" << std::endl;
+    std::cout << "Hello world!" << std::endl;
 }
 
 int main(int argc, char* argv[]) {
