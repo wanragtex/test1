@@ -2,3 +2,4 @@ build/
 release/
 debug/
 *.user
+.git-credentials
